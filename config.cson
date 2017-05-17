@@ -1,0 +1,57 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "1462c96a-e5b7-4594-9cbe-e2ce48da1c1d"
+    python:
+      max_line_length: 80
+  "atom-latex":
+    build_after_save: false
+    preview_after_build: "View in PDF viewer tab"
+  core:
+    disabledPackages: [
+      "latex"
+    ]
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 15
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "8ea9860b-13cf-7bef-a8f3-11f29e800860"
+  "git-plus":
+    general:
+      _analyticsUserId: "82106fd9-22e2-4937-98fe-07440c290d19"
+  latex:
+    opener: "pdf-view"
+  linter: {}
+  "linter-ui-default":
+    showProviderName: true
+  "linter-write-good":
+    severityLevel: "Warning"
+  minimap:
+    absoluteMode: true
+    adjustAbsoluteModeHeight: true
+  "spell-check":
+    grammars: [
+      "source.asciidoc"
+      "source.gfm"
+      "text.git-commit"
+      "text.plain"
+      "text.plain.null-grammar"
+      "text.tex.latex"
+    ]
+  "terminal-plus":
+    core:
+      workingDirectory: "Home"
+  welcome:
+    showOnStartup: false
+".beamer.latex.tex.text":
+  editor:
+    nonWordCharacters: "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-…n. Xilinx has partnered with ARM® to provide the most efficient 64-bit"
